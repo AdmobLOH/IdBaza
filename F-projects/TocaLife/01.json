@@ -1,1 +1,9 @@
-
+{
+  "bannerId": "ca-app-pub-6049063975472182/8601652394",
+  "interId": "ca-app-pub-6049063975472182/6961267663",
+  "count": 10,
+  "loadDelay": 55,
+  "afterLoad": 8,
+  "fqTotal": 2,
+  "useTotalCounter": true
+}
