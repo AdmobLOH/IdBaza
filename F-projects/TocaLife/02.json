@@ -4,6 +4,6 @@
   "count": 10,
   "loadDelay": 55,
   "afterLoad": 8,
-  "fqNext": 2,
-  "fqPrev": 2
+  "fqTotal": 2
 }
+
