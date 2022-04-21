@@ -1,7 +1,3 @@
 {
-  "Admob": {"InterId": "ca-app-pub-0000000000000000/0000000000"},
-  "Unity": {"gameId":"4718428", "InterId": "Interstitial_Android" },
-  "DefaultAds": "Admob",
-  "AddingAds": "Unity",
-  "CountryAddingAds": ["RU"]
+	"InterId": "ca-app-pub-0000000000000000/0000000000"
 }
