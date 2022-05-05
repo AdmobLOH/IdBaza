@@ -1,5 +1,5 @@
 {
-  "Admob": {"InterId": "ca-app-pub-7050298998852763/2148871172"},
+  "Admob": {"InterId": "ca-app-pub-6049063975472182/8764065194"},
   "Unity": {"gameId":"4699217", "InterId": "Interstitial_Android" },
   "DefaultAds": "Admob",
   "AddingAds": "Unity",
