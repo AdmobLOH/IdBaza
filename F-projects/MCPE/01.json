@@ -1,6 +1,8 @@
 {
-  "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-  "adCount": 2,
-  "adLimitTime": 60,
-  "maxAdLoadingTime": 8000
+  "rewardedAd": {
+    "adUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "adCount": 2,
+    "adLimitTime": 60,
+    "maxAdLoadingTime": 8000
+  }
 }
