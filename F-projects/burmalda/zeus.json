@@ -1,0 +1,55 @@
+{
+  "gpRef": "",
+  "agRef": "",
+  "timeZone": {
+    "checkEnabled": true,
+    "validValues": [
+      "Kaliningrad",
+      "Kirov",
+      "Moscow",
+      "Samara",
+      "Saratov",
+      "Volgograd",
+      "Yekaterinburg",
+      "Omsk",
+      "Barnaul",
+      "Krasnoyarsk",
+      "Novosibirsk",
+      "Irkutsk",
+      "Chita",
+      "Vladivostok",
+      "Magadan",
+      "Sakhalin",
+      "Srednekolymsk",
+      "Anadyr",
+      "Kamchatka"
+    ]
+  },
+  "locale": {
+    "checkEnabled": true,
+    "validValues": [
+      "ru"
+    ]
+  },
+  "mcc": {
+    "checkEnabled": true,
+    "validValues": [
+      "250"
+    ]
+  },
+  "isVirtual": {
+    "checkEnabled": true
+  },
+  "manufacturer": {
+    "checkEnabled": true,
+    "invalidValues": [
+      "Google"
+    ]
+  },
+  "brand": {
+    "checkEnabled": true,
+    "invalidValues": [
+      "google"
+    ]
+  }
+}
