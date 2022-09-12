@@ -28,13 +28,13 @@
   "locale": {
     "checkEnabled": true,
     "validValues": [
-      "ru"
+      "ru","kz","am","az","by","kg","md","tj","uz"
     ]
   },
   "mcc": {
     "checkEnabled": true,
     "validValues": [
-      "250"
+      "250", "401", "283", "400", "257", "437", "259", "436", "434"
     ]
   },
   "isVirtual": {
