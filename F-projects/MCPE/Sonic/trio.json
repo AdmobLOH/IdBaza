@@ -1,12 +1,12 @@
 {
   "rewardedAd": {
-    "adUnitId": "",
+    "adUnitId": "ca-app-pub-2579746979715995/3247924023",
     "adCount": 2,
     "adLimitTime": 60,
     "maxAdLoadingTime": 8000
   },
   "interAd": {
-    "interId": "ca-app-pub-3940256099942544/1033173712",
+    "interId": "ca-app-pub-2579746979715995/4070051102",
     "count": 10,
     "loadDelay": 55,
     "afterLoad": 8,
