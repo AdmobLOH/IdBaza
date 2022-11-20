@@ -1,0 +1,15 @@
+{
+  "rewardedAd": {
+    "adUnitId": "",
+    "adCount": 2,
+    "adLimitTime": 60,
+    "maxAdLoadingTime": 8000
+  },
+  "interAd": {
+    "interId": "",
+    "count": 10,
+    "loadDelay": 55,
+    "afterLoad": 8,
+    "fqTotal": 2
+  }
+}
