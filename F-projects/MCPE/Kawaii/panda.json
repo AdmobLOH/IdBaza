@@ -1,0 +1,8 @@
+{
+  "rewardedAd": {
+    "adUnitId": "",
+    "adCount": 2,
+    "adLimitTime": 60,
+    "maxAdLoadingTime": 8000
+  }
+}
